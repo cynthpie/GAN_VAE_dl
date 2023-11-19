@@ -1,5 +1,5 @@
 # GAN_VAE_dl
-GAN and VAE coursework at Imperial.
+GAN and VAE coursework at Imperial. See ```dl_cw2_2023.ipynb``` for code, detailed working process, and theoretical explanation.
 
 # In this project
 For variational autoencoder (VAE): 
